@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Lei. 👋
+
+- 🔭 I am a second-year master student at Huazhong University of Science and Technology.
+- 🌱 My reasearch interests lie in robot learning and robotic.
+- 🤔 I’m currently coding in Python and C++.
+- ❤️ I like playing GTA5 🚗.
+- 💬 Be free to ask me about anything [Email](rayyoh@hust.edu.cn).
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RayYoh&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayYoh&hide_border=true">
+</div>
