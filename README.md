@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Lei. 👋
 
-- 🔭 I am a second-year master student at Huazhong University of Science and Technology.
-- 🌱 My reasearch interests lie in robot learning and robotic.
+- 🔭 I am a final-year master student at Huazhong University of Science and Technology.
+- 🌱 My reasearch interests lie in robot learning and robotics.
 - 🤔 I’m currently coding in Python and C++.
 - ❤️ I like playing GTA5 🚗.
 - 💬 Be free to ask me about anything [Email](rayyoh@hust.edu.cn).
